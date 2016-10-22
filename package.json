@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/lewisjared/postgrest-request#readme",
   "dependencies": {
-    "lodash": "^3.10.0",
+    "lodash": "^4.16.4",
     "superagent": "^1.2.0",
     "util": "^0.10.3"
   },
